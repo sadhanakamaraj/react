@@ -1,0 +1,17 @@
+/* #choose h1,h3,p{
+    color: white;
+}
+
+#line1{
+    border: 2px solid white;
+    width:75px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.choose1 button:hover{
+    background-color: black;
+    color:white;
+    transition: 0.5s;
+}
+ */

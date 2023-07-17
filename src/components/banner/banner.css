@@ -1,0 +1,28 @@
+/* #ban button {
+    background-color: "white";
+    margin-bottom: 30px;
+}
+
+h1,p {
+    color: white;
+    margin-left: 30px;
+}
+
+body {
+    background-image: url(../images/banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 720px;
+}
+
+#ban button:hover {
+    color: white;
+    background-color: black;
+    transition: 0.4s;
+}
+
+.line {
+    width: 70px;
+    height: 17px;
+    border-bottom: 5px solid black;
+    margin-left: 520px;
+} */

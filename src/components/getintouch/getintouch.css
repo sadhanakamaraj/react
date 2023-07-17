@@ -1,0 +1,51 @@
+/* #touch input,
+textarea {
+    width: 350px;
+    height: 60px;
+}
+
+#touch button {
+    color: white;
+    background-color: black;
+    padding: 20px 50px 20px 50px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+#touch button:hover {
+    background-color: gray;
+    transition: 0.5s;
+}
+
+#client p {
+    color: black;
+}
+
+#getintouch {
+    display: flex;
+    justify-content: space-around;
+}
+
+#client {
+    position: relative;
+    top: -10px;
+}
+
+#client1 {
+    position: absolute;
+    top: 140px;
+    right: 273;
+    width: 2178px;
+    height: 115px;
+}
+
+#getintouch b{
+    margin:100px 20px 100px 244px;
+}
+
+.box{
+     box-shadow: 10px 10px 10px 10px#d3d3dae0;
+     padding: 15px;
+     margin-top: 50px;
+}
+ */
